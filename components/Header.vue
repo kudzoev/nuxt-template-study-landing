@@ -366,6 +366,8 @@
     {
         display: inline-flex;
         column-gap: 5px;
+		transform: translateX(1px);
+
         &::before
         {
             content: '';
@@ -380,6 +382,7 @@
 {
     display: inline-flex;
     column-gap: 7px;
+	transform: translateX(2px);
     &::before
     {
         content: '';

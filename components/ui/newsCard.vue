@@ -148,7 +148,7 @@
 		&-title
 		{
 			margin-left: 20px;
-			margin-bottom: 8px;
+			margin-bottom: 9px;
 			font-weight: 500;
 			font-size: 16px;
 			line-height: 125%;

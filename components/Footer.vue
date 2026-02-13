@@ -91,7 +91,7 @@
 						<img src="/components/img/dekstop/svg/footer/paper.svg
 						" alt="img" class="main-section__price-sign-img">
 						<p class="main-section__price--download">Скачать прайс-лист</p>
-						<p class="main-section__price--size">PDF, 12Mb</p>
+						<p class="main-section__price--size">PDF, 12 Mb</p>
 					</div>
 				</div>
 				<div class="main-section__contacts">
@@ -411,7 +411,7 @@
 		}
 		&__price
 		{
-			width: 165px;
+			width: 166px;
 			grid-area: pl;
 			@media(max-width: 805px)
 			{

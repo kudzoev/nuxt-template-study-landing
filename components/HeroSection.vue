@@ -588,7 +588,7 @@
 				&-h2
 				{
 					font-weight: 700;
-					font-size: 19px;
+					font-size: 20px;
 					line-height: 125%;
 					color: #1c294d;
 				}
