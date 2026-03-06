@@ -457,7 +457,7 @@
 
 				let timer = setInterval(autoPlay, 3000);
 
-				const sliderBlock = document.querySelector('.slider');
+				const sliderBlock = document.querySelector('.slider1');
 
 				sliderBlock.addEventListener('mouseenter', () => {
 					clearInterval(timer);
